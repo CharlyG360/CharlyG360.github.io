@@ -1,1 +1,46 @@
- h1 { color:#CA8374; }
+.pagename { 
+           position:relative;
+           top: 5px;
+           left: 45px;
+           color: #415B58;
+          }
+.aboutme {
+          position:relative;
+          top: 5px;
+          left: 84px;
+          font-size: 13px;
+          color: #FFFFFF;
+          background: #000000;
+          margin:;
+          padding: center;
+          width:75px;
+          height: 20px;
+    }
+.articulos {
+            position:relative;
+            top:15px;
+            bottom:;
+            right:;
+            left:120px;
+           }
+body { 
+      font-size: 16px;
+      background: #FFFFFF;
+      color: #484949;
+}
+img { width: 200px; }
+.parrafo {
+          position:relative;
+          top:5px;
+          left:150px;
+          }
+
+.formulario {
+      position:relative;
+            top:8px;
+            bottom:245px;
+            right:300px;
+            left:220px;
+      margin: 30px;
+      padding: 15px;
+}
